@@ -1,0 +1,9 @@
+# Ignored Folders
+fuel/app/tmp/*
+fuel/app/logs/*
+fuel/app/cache/*
+
+# Exceptions
+!fuel/app/tmp/.gitkeep
+!fuel/app/logs/.gitkeep
+!fuel/app/cache/.gitkeep
